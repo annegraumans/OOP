@@ -18,9 +18,9 @@ public class Application {
 		cat1.setLegs(4);
 		cat1.setName("Tiger");
 		
-		Bear bear1 = new Bear();
-		bear1.setLegs(3);
-		bear1.setName("Winnie de Poeh");
+	//	Bear bear1 = new Bear();
+	//	bear1.setLegs(3);
+	//	bear1.setName("Winnie de Poeh");
 		
 		Dog dog1 = new Dog();
 		dog1.setLegs(3);
